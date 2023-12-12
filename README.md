@@ -1,16 +1,57 @@
-### Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**MosaddekHossen/MosaddekHossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
+<h3 align="center">A passionate frontend developer!</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.ibb.co/WxsknzR/banner.jpg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I am a junior frontend developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code.</p>
+
+### Skills:
+
+HTML5, CSS3, Tailwind CSS, JavaScript, React
+
+### Experience:
+
+- Web development using various frameworks and libraries.
+- Proficient in React.js for building dynamic user interfaces.
+- GitHub for code management and version control.
+- Utilize testing tools and libraries for code verification.
+
+I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career. You can explore my code projects on [GitHub](https://github.com/MosaddekHossen?tab=repositories). As a capable and proactive frontend developer, I look forward to quickly collaborating with you to meet your needs.
+
+- 🔭 I’m currently working on [car-brand-client](https://brand-shop-client-28f8e.web.app/)
+- 🌱 I’m currently learning **JavaScript**
+- 💬 Ask me about **web development**
+- 📫 Connect with me: [mosaddek305@gmail.com](mailto:mosaddek305@gmail.com)
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</p>
+
+### GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact" alt="mosaddekhossen" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="mosaddekhossen" />
+</p>
+
+<h3 align="left">Technologies and Frameworks:</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
