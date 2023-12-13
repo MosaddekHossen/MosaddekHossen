@@ -1,18 +1,18 @@
 <!-- GitHub Profile README -->
 <h1 align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
-<h3 align="center">A passionate frontend developer!</h3>
+<h3 align="center">A frontend developer!</h3>
 
 ## 🚀 About Me
 <p align="center">I am a junior frontend developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code.</p>
 
-## 👨‍💻 Skills & Experiance: 
+## 👨‍💻 Skills: 
 ✅ React <br> 
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / Tailwind CSS <br>
 ✅ Node Js / Express / Firebase / MongoDB <br>
 ✅ Figma <br>
 
-### Experience:
+## 👨‍💻 Experiance: 
 
 - Web development using various frameworks and libraries.
 - Proficient in React.js for building dynamic user interfaces.
