@@ -37,7 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
-## GitHub Stats:
+## 👨‍💻 GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact" alt="mosaddekhossen" />
@@ -46,7 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="mosaddekhossen" />
 </p>
 
-<h3 align="left">Technologies and Frameworks:</h3>
+## 👨‍💻 Technologies and Frameworks:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
