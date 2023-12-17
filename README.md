@@ -2,9 +2,7 @@
 <h1 align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
 <h3 align="center">A frontend Web Developer!</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" />
-</p>
+
 
 ## 🚀 About Me
 ### <p align="center">I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code.</p>
@@ -59,6 +57,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" />
-</p>
+
