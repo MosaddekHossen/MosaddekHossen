@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on [car-brand-client](https://brand-shop-client-28f8e.web.app/)
 - 🌱 I’m currently learning **JavaScript**
-- 💬 Ask me about **web development**
+- 💬 Ask me about **React development**
 - 📫 Connect with me: [mosaddek305@gmail.com](mailto:mosaddek305@gmail.com)
 
 ## 👨‍💻 Languages and Tools: 
