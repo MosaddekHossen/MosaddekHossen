@@ -43,11 +43,11 @@
 
 ## 👨‍💻 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact" alt="Image" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact" alt="Stats-Image" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="Image" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="Stats-Image" />
 </p>
 
 ## 👨‍💻 Technologies and Frameworks:
