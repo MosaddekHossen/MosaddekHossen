@@ -26,9 +26,14 @@
 ### I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career. You can explore my code projects on [GitHub](https://github.com/MosaddekHossen?tab=repositories). As a capable and proactive frontend developer, I look forward to quickly collaborating with you to meet your needs.
 
 - 🔭 I’m currently working on [car-brand-client](https://brand-shop-client-28f8e.web.app/)
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **BackEnd**
 - 💬 Ask me about **React development**
 - 📫 Connect with me: [mosaddek305@gmail.com](mailto:mosaddek305@gmail.com)
+  
+<h2>🔭 I’m currently working on <a href="[https://brand-shop-client-28f8e.web.app/](https://123sweet-copy.surge.sh/)" target="_blank">CyberHub</a></h2>
+<h3>🌱 I’m currently learning <strong>BackEnd</strong></h3>
+<h3>📫 Connect with me: <a href="mailto:mosaddek305@gmail.com">mosaddek305@gmail.com</a></h3>
+<h3>👨‍💻 Check out my profile: <a href="https://mosaddekhossen.surge.sh/" target="_blank">https://mosaddekhossen.surge.sh/</a></h3>
 
 ## 👨‍💻 Languages and Tools: 
 
