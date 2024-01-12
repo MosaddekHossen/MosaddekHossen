@@ -49,13 +49,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="Stats-Image" />
 </p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mosaddek)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mosaddek&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mosaddek)  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" />
-</p>
