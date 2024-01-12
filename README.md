@@ -27,7 +27,7 @@
 - 👨‍💻 Check out my profile: <a href="https://mosaddekhossen.surge.sh/" target="_blank">https://mosaddekhossen.surge.sh/</a>
 - 📫 Connect with me: <a href="mailto:mosaddek305@gmail.com">mosaddek305@gmail.com</a>
 
-## 👨‍💻 Languages and Tools: 
+## 👨‍💻 Languages, Tools, Technologies, and Frameworks: 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -35,12 +35,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
-
-
-## 👨‍💻 Technologies and Frameworks:
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
