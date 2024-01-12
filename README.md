@@ -27,7 +27,6 @@
 - 👨‍💻 Check out my profile: <a href="https://mosaddekhossen.surge.sh/" target="_blank">https://mosaddekhossen.surge.sh/</a>
 - 📫 Connect with me: <a href="mailto:mosaddek305@gmail.com">mosaddek305@gmail.com</a>
 
-
 ## 👨‍💻 Languages and Tools: 
 
 <p align="center">
@@ -39,14 +38,6 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
-## 👨‍💻 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact" alt="Stats-Image" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="Stats-Image" />
-</p>
 
 ## 👨‍💻 Technologies and Frameworks:
 
@@ -55,6 +46,15 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+## 👨‍💻 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact" alt="Stats-Image" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="Stats-Image" />
 </p>
 
 <p align="center">
