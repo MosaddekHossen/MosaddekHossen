@@ -1,3 +1,32 @@
+ <style>
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f5f5f5; /* Set background color as needed */
+    }
+
+    .content {
+      text-align: center;
+      color: #333; /* Set text color as needed */
+    }
+
+    .content img {
+      max-width: 100%; /* Make sure the image is responsive */
+      height: auto;
+    }
+  </style>
+ <div class="content">
+    <p>
+      <img src="https://i.ibb.co/nsPkJq2/github.jpg" alt="GitHub Image" />
+    </p>
+    <h1>Greetings! 👋, I'm Mosaddek Hossen</h1>
+    <h3>A frontend Web Developer!</h3>
+  </div>
+
+
 <p align="center">
   <img src="https://i.ibb.co/nsPkJq2/github.jpg" />
 </p>
