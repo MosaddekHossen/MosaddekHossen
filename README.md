@@ -45,11 +45,14 @@
 ## 👨‍💻 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact" alt="Stats-Image" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&show_icons=true&locale=en&layout=compact&theme=github-dark" alt="Stats-Image" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen" alt="Stats-Image" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosaddekhossen&theme=github-dark" alt="Stats-Image" />
 </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rf-rifat&theme=github-dark" alt="GitHub Streak" />
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" />
 </p>
