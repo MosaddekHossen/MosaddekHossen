@@ -44,9 +44,11 @@
 
 ## 👨‍💻 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&theme=github-dark&title_color=fff&text_color=fff&layout=compact" alt="Stats-Image" />
-</p>
+<div style="border: 2px solid #39d353; border-radius: 8px; display: inline-block; padding: 10px;">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosaddekhossen&theme=dark&title_color=fff&text_color=fff&layout=compact" alt="Stats-Image" />
+  </p>
+</div>
   
 </p>
 <p align="center">
