@@ -27,7 +27,13 @@
 - 👨‍💻 Check out my profile: <a href="https://mosaddekhossen.surge.sh/" target="_blank">https://mosaddekhossen.surge.sh/</a>
 - 📫 Connect with me: <a href="mailto:mosaddek305@gmail.com">mosaddek305@gmail.com</a>
 
-## 👨‍💻 Languages, Tools, Technologies, and Frameworks: 
+## 👨‍💻 Technologies and Tools: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
