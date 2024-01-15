@@ -31,21 +31,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,nextjs,mongodb,figma,github" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsAP_G6R8_10bS-WeF8BY_1lf_Opeq4LofYQ&usqp=CAU" alt="Figma" width="40" height="40"/>
-  <img src="https://e7.pngegg.com/pngimages/1005/334/png-clipart-express-js-node-js-javascript-session-web-application-others-miscellaneous-angle.png" alt="express" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bWAzTHrN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8vshokrazrgrnurqed8.jpg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
 ## 👨‍💻 GitHub Stats:
