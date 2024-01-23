@@ -1,5 +1,5 @@
 <p relative align="center">
-  <img src="https://i.ibb.co/BPnMLv8/bnlogo.png" alt="Image" />
+  <img src="https://i.ibb.co/JzhG1XR/bn.png" alt="Image" />
 </p>
 
 <h1 absolute align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
