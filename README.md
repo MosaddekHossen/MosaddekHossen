@@ -1,5 +1,5 @@
 <p relative align="center">
-  <img src="https://i.ibb.co/xsFThwV/bnlogo.png" alt="Image" />
+  <img src="https://img.freepik.com/free-photo/closeup-shot-sunflower-head-with-field-many-surface_181624-37260.jpg?w=996&t=st=1706025541~exp=1706026141~hmac=65f7bac72ef026bda3251e63a52e955c5a2fa41187ab9b4411e2fcf010c4e555" alt="Image" />
 </p>
 
 <h1 absolute align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
