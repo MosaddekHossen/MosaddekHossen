@@ -1,5 +1,5 @@
 <p relative align="center">
-  <img src="https://img.freepik.com/free-photo/businessman-using-laptop-computer-with-digital-padlock-internet-technology_587448-4892.jpg?t=st=1706025762~exp=1706029362~hmac=a48583bac644b5891e64e50ee828403ce6cd996f938c1ee1e6d1702f70a37231&w=1380" alt="Image" />
+  <img src="https://md-mosaddek-hoss.imgbb.com/" alt="Image" />
 </p>
 
 <h1 absolute align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
