@@ -1,5 +1,5 @@
 <p relative align="center">
-  <img src="https://github.com/MosaddekHossen/04-Camera-resourse/blob/main/images/bnlogo.png?raw=true" style="width: 100%; height: 450px;" />
+  <img src="https://github.com/MosaddekHossen/04-Camera-resourse/blob/main/images/bnlogo.png?raw=true" style="width: 100%; height: 450px; object-fit: cover;" />
 </p>
 
 <h1 absolute align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
