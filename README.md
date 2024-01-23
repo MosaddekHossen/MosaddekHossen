@@ -1,5 +1,5 @@
 <p relative align="center">
-  <img src="https://i.ibb.co/ggtWw3q/Navy-Blue-Futuristic-Virtual-Technology-Banner-1.png" />
+  <img src="https://i.ibb.co/ggtWw3q/Navy-Blue-Futuristic-Virtual-Technology-Banner-1.png" alt="Image" />
 </p>
 
 <h1 absolute align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
