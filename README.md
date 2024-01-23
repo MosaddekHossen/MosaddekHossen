@@ -1,5 +1,5 @@
 <p relative align="center">
-  <img src="https://i.ibb.co/xsFThwV/bnlogo.png" alt="Image" />
+  <img src="https://avatars.githubusercontent.com/u/138000438?s=400&u=04725e864afc3e23a788d41e50651fc33694c7a8&v=4" alt="Image" />
 </p>
 
 <h1 absolute align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
