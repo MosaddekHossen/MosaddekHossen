@@ -5,7 +5,7 @@
 <h1 absolute align="center">Greetings! 👋, I'm Mosaddek Hossen</h1>
 
 ## 🚀 About Me
-### <p align="center">I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code. I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career. You can explore my code projects on [GitHub](https://github.com/MosaddekHossen?tab=repositories). As a capable and proactive frontend developer, I look forward to quickly collaborating with you to meet your needs.</p>
+### <p align="center">I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code. I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career.</p>
 
 ## 👨‍💻 Skills: 
 ✅ React <br> 
