@@ -1,9 +1,11 @@
+# 👋 Greetings!
+
 <p relative align="center">
   <img src="https://github.com/MosaddekHossen/04-Camera-resourse/blob/main/images/bnlogo.png?raw=true" style="width: 100%; height: 450px; object-fit: cover;" />
 </p>
 
 ## 🚀 About Me
-### <p align="center">Greetings! 👋, I'm Mosaddek Hossen! I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code. I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career.</p>
+### <p align="center">I'm Mosaddek Hossen! I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code. I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career.</p>
 
 ## 👨‍💻 Skills: 
 ✅ React <br> 
