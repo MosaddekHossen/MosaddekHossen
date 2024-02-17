@@ -1,4 +1,4 @@
-# 👋 Greetings! 
+# 👋 Greetings!
 
 <p relative align="center">
   <img src="https://github.com/MosaddekHossen/04-Camera-resourse/blob/main/images/bnlogo.png?raw=true" style="width: 100%; height: 450px; object-fit: cover;" />
