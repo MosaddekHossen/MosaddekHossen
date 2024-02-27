@@ -1,5 +1,5 @@
-### 👋 Greetings! 
-<p align="center">I'm Mosaddek Hossen! I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code. I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career.</p>
+##👋 Greetings! 
+### <p align="center">I'm Mosaddek Hossen! I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code. I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career.</p>
 
 ## 👨‍💻 Skills: 
 ✅ React <br> 
