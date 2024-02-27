@@ -1,16 +1,11 @@
 ### <p align="center"> 👋 Greetings! I'm Mosaddek Hossen! I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, and JavaScript, I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code. I am enthusiastic and motivated to embrace new challenges and apply innovations in my development career.</p>
 
-## 👨‍💻 Skills: 
+## 👨‍💻 Skills and Experiance: 
 ✅ React <br> 
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / Tailwind CSS <br>
 ✅ Node Js / Express / Firebase / MongoDB <br>
 ✅ Figma <br>
-
-## 👨‍💻 Experiance: 
-
-✅ Proficient in React.js for building dynamic user interfaces. <br> 
-✅ GitHub for code management and version control. <br> 
 
 - 🔭 I’m currently working on <a href="https://123sweet-copy.surge.sh/" target="_blank">CyberHub</a>
 - 🌱 I’m currently learning <strong>BackEnd</strong>
