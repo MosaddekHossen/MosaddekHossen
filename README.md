@@ -1,6 +1,7 @@
-![Md](gitartwork.sv)
+<div align="center">  
+![Mosaddek Hossen](gitartwork.svg)
+</div>
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=1000&lines=👋+Greetings!+I'm+Mosaddek+Hossen!" alt="Typing SVG" /></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F726&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ### <p align="center">I am a junior frontend web developer, with a strong focus on web technology. Proficient in HTML, CSS, Tailwind, JavaScript, React and I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code.</p>
 
 ## 👨‍💻 Skills and Experiance: 
