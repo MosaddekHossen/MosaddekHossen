@@ -1,19 +1,17 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00d26a&random=false&width=1000&lines=👋+Greetings!+I'm+Mosaddek+Hossen!" alt="Typing SVG" /></a>
 ### <p align="center">I am a frontend web developer, with a strong focus on web technology, Proficient in HTML, CSS, Tailwind, JavaScript, and React and I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code.</p>
 
-## 👨‍💻 Skills and Experiance: 
-✅ React <br> 
-✅ JavaScript <br>
-✅ HTML5 / CSS3 / Tailwind CSS <br>
-✅ Node Js / Express / Firebase / MongoDB <br>
-✅ Figma <br>
-
 - 🔭 I’m currently working on <a href="https://123sweet-copy.surge.sh/" target="_blank">CyberHub</a>
 - 🌱 I’m currently learning <strong>BackEnd</strong>
 - 👨‍💻 Check out my profile: <a href="https://mosaddekhossen.surge.sh/" target="_blank">https://mosaddekhossen.surge.sh/</a>
 - 📫 Connect with me: <a href="mailto:mosaddek305@gmail.com">mosaddek305@gmail.com</a>
 
-## 👨‍💻 Technologies and Tools: 
+## 👨‍💻 Skills and Experiance:  
+✅ React <br> 
+✅ JavaScript <br>
+✅ HTML5 / CSS3 / Tailwind CSS <br>
+✅ Node Js / Express / Firebase / MongoDB <br>
+✅ Figma <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
