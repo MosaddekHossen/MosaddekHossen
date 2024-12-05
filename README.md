@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00d26a&random=false&width=1000&lines=👋Hey!+I'm+Mosaddek+Hossen!" alt="Typing SVG" /></a> <h3> <p align="center">I am a frontend web developer, with a strong focus on web technology, Proficient in HTML, CSS, Tailwind, JavaScript, and React and I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through code.</p></h3>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00d26a&random=false&width=1000&lines=👋Hey!+I'm+Mosaddek+Hossen!" alt="Typing SVG" /></a> <h3> <p align="center">I am a frontend web developer, with a strong focus on web technology, Proficient in HTML, CSS, Tailwind, JavaScript, and React and I craft interfaces with a keen eye for user experience. Specialized in mobile-first and responsive design, I bring ideas to life through codes.</p></h3>
 
 - 📫 Connect with me: <a href="mailto:mosaddek305@gmail.com">mosaddek9614@gmail.com</a>
 
