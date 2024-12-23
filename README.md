@@ -2,7 +2,7 @@
 
 - 📫 Connect with me: <a href="mailto:mosaddek305@gmail.com">mosaddek9614@gmail.com</a>
 
-## 👨‍💻 Skills and Experiances:  
+## 👨‍💻 Skills and Experience:  
 ✅ React <br> 
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / Tailwind CSS <br>
